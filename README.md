@@ -1,4 +1,4 @@
-# AA_22_Team_14
+**# AA_22_Team_14
 
 Description of tasks
   1.	Data Collection and Preparation
@@ -16,17 +16,17 @@ Description of tasks
 
   2.	Descriptive analytics
       Steps to follow:
-        a.	Temporal Demand Patterns and Seasonality: Demonstrate how fleet usage varies during a day, a week and                the year. What patterns do you observe? Explain.
+        a. Temporal Demand Patterns and Seasonality: Demonstrate how fleet usage varies during a day, a week and                the year. What patterns do you observe? Explain.
                 -	Filter for (1) daytime, for (2) weekday and for (3) weeks and months
                 -	Check for demand/usage on holidays and during typical vacation times
                 -	Check for Boston-specific tourist data
 
         b.	Geographical Demand Patterns: Which stations are particularly popular and which are not? Provide a                   rationale as to why you observe these patterns.
-                -	Map of Boston: For the rationale, use a map check where the stations are placed to find reasons
+                -	Map of Boston: For the rationale, use a map check where the stations are placed to find 			reasons
                 -	Check for differences between the two groups of the 20 most popular and the 20 least popular
                 -	Check for similarities within the two groups and identify/make assumptions regarding                                 characteristics
                 -	Cumulative demand/usage of the two groups
-                -	Check for frequently connections between two stations (are bikes used to cover missing public                       transportation or even instead of public transportation?)
+                -	Check for frequently connections between two stations (are bikes used to cover missing 				public transportation or even instead of public transportation?)
 
         c.	Key Performance Indicators (KPIs): Define at least (!) three KPIs that you would include in a dashboard             for a fleet operator. These KPIs must provide an immediate overview of the current fleet operations and             how well the fleet is doing in terms of utilization, revenue, coverage and/or other business-related                 aspects. Briefly explain the rationale behind selecting each KPI, explain why you have chosen it and                 where needed provide references. Calculate hourly values for the selected KPIs for the city/year in your             dataset and visualize them over time. Which trends do you observe? How do you explain them?
                 1)	Average usage/utilization rate
@@ -110,3 +110,4 @@ Main deliverable of this group project you are expected to submit the following 
 
 
 
+**
