@@ -87,15 +87,15 @@ Description of tasks
                       - More and more detailed weather data (amount of rain, speed of wind)
                       
 Notes and tips
-    1.	Make generous use of visualization techniques to clearly illustrate your findings and present them in an             appealing fashion.
+    1.	Make generous use of visualization techniques to clearly illustrate your findings and present them in an appealing fashion.
     2.	Evaluate your methodology and clearly state why you have opted for a specific approach in your analysis.
-    3.	Relate your findings to the real world and interpret them for non-technical audiences (e.g. What do the             coefficients in your regression model mean?, What does the achieved error mean for your model?, etc.)
-    4.	Make sure to clearly state the implications (i.e. the ”so what?”) of your findings for managers/decision             makers.
+    3.	Relate your findings to the real world and interpret them for non-technical audiences (e.g. What do the coefficients in your regression model mean? What does the achieved error mean for your model?, etc.)
+    4.	Make sure to clearly state the implications (i.e. the ”so what?”) of your findings for managers/decision makers.
  
 Main deliverable of this group project you are expected to submit the following documents:
-    1.	A 5-page report (excl. figures, tables, cover page, executive summary, references and appendices) in .pdf           format detailing your answers to task 1-4 as well as any additional findings. The report should include:
+    1.	A 5-page report (excl. figures, tables, cover page, executive summary, references and appendices) in pdf-format detailing your answers to task 1-4 as well as any additional findings. The report should include:
             o	Cover page with informative title, team number and member names
-            o	One-page executive summary: summarizes the entire report for a non-technical manager (the business                   problem, data, the analytics solution, implications and recommendations)
+            o	One-page executive summary: summarizes the entire report for a non-technical manager (the business problem, data, the analytics solution, implications and recommendations)
             o	Problem description (business goal and data mining goal)
             o	Data description
             o	Brief data preparation details (how your data were created from the raw data) and key charts. Details               can be provided in an Appendix.
