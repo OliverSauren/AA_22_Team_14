@@ -1,0 +1,3 @@
+a=pd.read_csv(r"C:\Users\loren\Desktop\weather_hourly_boston (1).csv",index_col="number")   Einspielen Datensatz 
+a.dropna(axis=0,inplace=True)                                                               fehlende Werte eliminieren und neuen Datensatz speichern
+wie nach 2017 filtern? query Function?
