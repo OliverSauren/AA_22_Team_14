@@ -15,6 +15,7 @@ Description of tasks
       - Consolidation of cleaning codes (Patrick)
       - Check for NaN values (Oliver)
       - Check for count of station id < 10 -> Check for usefulness (Oliver)
+      - Pricing data (Oliver)
       - What to do with data from January and February 2017 (Season open was on the 27th February 2017
       
       -	Weather dataset should be fine
