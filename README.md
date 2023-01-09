@@ -11,6 +11,12 @@ Description of tasks
           o	Start time has to be smaller than end time
           o	IDs (bikes and stations) have to be numerical
           o	Station name has to be a string and a proper name for a station (check for irritating values)
+      - Report (Patrick)
+      - Consolidation of cleaning codes (Patrick)
+      - Check for NaN values (Oliver)
+      - Check for count of station id < 10 -> Check for usefulness (Oliver)
+      - What to do with data from January and February 2017 (Season open was on the 27th February 2017
+      
       -	Weather dataset should be fine
       -	Hint: additional data, such as the locations of individual bike stations may be available from the operator               websites. You can incorporate those in your analyses (e.g., for visualization purposes) for extra                   marks but it is not a requirement.
 
